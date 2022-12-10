@@ -12,7 +12,7 @@ My current project is an evolution simulation in various market evironments.
 And of course not to fail the upcoming tests :)
 
 ###
-More to come it is 03:49 already I still stuff to do.
+More to come it is 03:49 already and I have still stuff to do.
 Will continue in a few days probably.
  
 
